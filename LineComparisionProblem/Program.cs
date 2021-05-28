@@ -12,6 +12,8 @@ namespace LineComparisionProblem
             calculateLength.CalculateLength();
             ChecktwoLineEqual checktwoLineEqual = new ChecktwoLineEqual();
             checktwoLineEqual.CalculateLength();
+            CheckEqualGreaterLess checkEqualGreaterLess = new CheckEqualGreaterLess();
+            checkEqualGreaterLess.CalculateLength();
         }
     }
 }
