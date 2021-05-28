@@ -10,7 +10,8 @@ namespace LineComparisionProblem
             CalculateTheLenght calculateLength = new CalculateTheLenght();
 
             calculateLength.CalculateLength();
-
+            ChecktwoLineEqual checktwoLineEqual = new ChecktwoLineEqual();
+            checktwoLineEqual.CalculateLength();
         }
     }
 }
